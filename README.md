@@ -1,10 +1,13 @@
 ## Date created
+
 This project was created in March 2018.
 
 ## Project Title
-Data Visualisation using Python.
+
+Data Visualisation using Python using the PISA Dataset.
 
 ## Description
+
 In this project I was tasked with creating univariate, bivariate and multivariate visualisations using Python then create a slideshow showcasing my findings.
 
 I have always believed education to be the cornerstone of a functioning society so I have decided to create visualisations using the PISA dataset.
